@@ -1,0 +1,4 @@
+pandas==1.4.3
+lxml==4.9.1
+# uncomment the line below if Postgres DB is used.
+# psycopg2==2.9.3
