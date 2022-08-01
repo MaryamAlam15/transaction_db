@@ -11,8 +11,8 @@ cnx = sqlite3.connect('data/transactions.db')
 # cnx = psycopg2.connect(
 #     host="localhost",
 #     database="transactions",
-#     user="admin",
-#     password="admin")
+#     user="<db username>",
+#     password="<db password>")
 
 
 def get_transactions_df():
